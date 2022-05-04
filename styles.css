@@ -20,22 +20,18 @@
 }
 
 .Viereck-4 {
-  width: 12.8vh;
-  height: 12.8vh;
+  width: 3.125rem;
+  height: 3.125rem;
   background-color: peru;
 }
-
 .Viereck-5 {
-  width: 3.125em;
-  height: 3.125em;
-  background-color: green;
-}
-.container6 {
-  width: 20vh;
-  height: 20vh;
-}
-.Viereck-6 {
   width: 12.8vh;
   height: 12.8vh;
+  background-color: green;
+}
+
+.Viereck-6 {
+  width: 6.5vw;
+  height: 6.5vw;
   background-color: plum;
 }
